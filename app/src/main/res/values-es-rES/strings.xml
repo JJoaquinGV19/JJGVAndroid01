@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDM-P01</string>
+    <string name="buttonSend">Enviar a Activity 2</string>
+    <string name="textViewChange">Texto a cambiar</string>
+    <string name="textEditToSend">Escriba un texto</string>
+    <string name="buttonChangeText">Cambiar Textview</string>
+</resources>
